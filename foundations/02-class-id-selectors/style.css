@@ -1,0 +1,36 @@
+
+.color-red{
+    background-color:#ffc0cb; 
+    font-family:'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#blue{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.color-red.bigger{
+    font-size: 24px;
+}
+
+#green{
+    background-color: #35e135;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
